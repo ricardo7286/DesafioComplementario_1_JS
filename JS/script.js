@@ -18,3 +18,6 @@ while (pregunta.toLowerCase() != "huevo") {
 //alert con la respuesta correcta
 alert("Excelente " + nombre + " " + pregunta + " es la respuesta correcta. \nSi te interesa saber mas haz clic en aceptar");
 //alert con mas info sobre la ciencia detras del enigma del huevo o la gallina
+for(let i = 10; i >=0; i--){
+    alert("Obtendras mas informacion en " + i)
+}
